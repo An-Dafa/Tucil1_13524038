@@ -1,0 +1,9 @@
+AA#BB
+AAAC#
+D#BCC
+DDE#E
+#DAAE
+
+Algorithm: Brute Force
+Time Taken: 0 ms
+Cases Checked: 1933

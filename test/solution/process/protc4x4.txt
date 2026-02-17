@@ -1,0 +1,7 @@
+--- Step: 100 ---
+#AAB
+CAB#
+CDDB
+#D#D
+
+Cases checked: 227

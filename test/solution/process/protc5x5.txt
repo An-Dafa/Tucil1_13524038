@@ -1,0 +1,62 @@
+--- Step: 300 ---
+#AAB#
+AAACC
+DBB#C
+D##EE
+DDAAE
+--- Step: 500 ---
+#AABB
+AAACC
+D#B#C
+DDEEE
+#DAA#
+--- Step: 600 ---
+#AABB
+AAA#C
+DB#CC
+DDEE#
+D#AAE
+--- Step: 700 ---
+#AABB
+AAACC
+#B#C#
+DDE#E
+DDAAE
+--- Step: 800 ---
+A#A#B
+AAAC#
+DBBCC
+#DEEE
+DDAAE
+--- Step: 1100 ---
+A#AB#
+AAACC
+DBBC#
+DDEE#
+#DAAE
+--- Step: 1200 ---
+A#ABB
+AAAC#
+D#BCC
+DDE#E
+D#AAE
+--- Step: 1300 ---
+A#ABB
+AAA#C
+#B#CC
+DDEEE
+DDAAE
+--- Step: 1500 ---
+AA##B
+AAA#C
+DBBCC
+#DEE#
+DDAAE
+--- Step: 1800 ---
+AA#B#
+AAACC
+DBB#C
+DD#EE
+D#AAE
+
+Cases checked: 1933

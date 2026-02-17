@@ -1,0 +1,8 @@
+A#AB
+CAB#
+#DDB
+CD#D
+
+Algorithm: Brute Force
+Time Taken: 0 ms
+Cases Checked: 227
